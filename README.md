@@ -11,8 +11,8 @@ The study was guided by the following research questions:
 
 1. **Is there a relationship between age and medical conditions?**  
 2. **Does the patient’s medical condition influence the length of hospital stay?**  
-3. **Do smoking and alcohol consumption influence medical conditions?**  
-4. **Do genetic factors (family history) affect medical conditions?**  
+3. **Does smoking and alcohol consumption influence medical conditions?**  
+4. **Does genetic factors (family history) affect medical conditions?**  
 5. **What are the predictors of Length of Stay among patients?**
 
 ---
