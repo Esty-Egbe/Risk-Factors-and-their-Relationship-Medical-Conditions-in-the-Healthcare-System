@@ -1,2 +1,2 @@
-# Risk-Factors-and-their-Relationship-Medical-Conditions-in-the-Healthcare-System
+# Risk-Factors-and-their-Relationship-to-Medical-Conditions-in-the-Healthcare-System
 This study analyzes a medical dataset to explore the relationships between patients’ demographic and clinical variables, such as age, gender, glucose levels,length of hospital stay blood pressure, BMI, and other health indicators. The aim is to identify key factors influencing patient medical condition and length of hospital stay.
