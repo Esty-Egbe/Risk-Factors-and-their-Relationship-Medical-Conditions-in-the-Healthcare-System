@@ -163,11 +163,7 @@ Proactive health management, especially through stress control, diet improvement
 📧 estyegbe@gmail.com
 🔗 [GitHub Profile](https://github.com/Esty-Egbe)
 
----
 
-## 🗂️ Repository Structure
-
----
 
 ## 🧾 References
 - World Health Organization (WHO) – Noncommunicable Diseases Statistics  
