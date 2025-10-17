@@ -1,5 +1,7 @@
 # 🩺 Analysis of a Medical Data Set
 
+<img width="1500" height="1000" alt="Image" src="https://github.com/user-attachments/assets/293f4d98-0a59-4a17-b151-4d2d64468669" />
+
 ## 📘 Project Overview
 This project investigates how clinical, demographic, and lifestyle factors influence **medical conditions** and **length of hospital stay**.  
 The main goal is to uncover key relationships between patient characteristics and hospital outcomes using Microsoft Excel and Power BI.
